@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "regions",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "areaId": "egf-pod-1", "name": "Southeast/Rhinehart", "phoneNumber": "701-520-1356", "email": "jack.art.morgan@gmail.com", "hours": "9-5", "link": "link", "notes": "this is a note" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -97.020242438427573, 47.935785908759883 ], [ -97.009695024092522, 47.938518169401007 ], [ -96.990850310480582, 47.938235528444153 ], [ -96.981427953674583, 47.915524990269432 ], [ -96.983959333114996, 47.895256135063718 ], [ -97.014898415164495, 47.919954799129975 ], [ -97.020242438427573, 47.935785908759883 ] ] ] } }
+]
+}
